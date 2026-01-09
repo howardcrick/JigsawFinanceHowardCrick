@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="JigsawFinanceHowardCrick.API/JigsawFinanceHowardCrick.API.csproj" />
+  <Project Path="jigsawfinancehowardcrick.client/jigsawfinancehowardcrick.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="JigsawFinanceHowardCrick.Services/JigsawFinanceHowardCrick.Services.csproj" />
+</Solution>
